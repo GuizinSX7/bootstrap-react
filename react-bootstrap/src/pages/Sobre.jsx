@@ -1,13 +1,15 @@
 import React from "react";
 import Menu from "./Menu";
 import Table from "react-bootstrap/Table";
+import './Sobre.css'
 
 function Sobre() {
   return (
-    <div>
+    <div >
       <Menu />
-      <div className="sobre-container">
-        <Table striped bordered hover>
+      <div id="SobreContainer">
+      <div>
+        <Table striped bordered hover id="centralizar">
           <thead>
             <tr>
               <th>Primeiro nome</th>
@@ -33,10 +35,11 @@ function Sobre() {
               <td>Mateus</td>
               <td>Silvério</td>
               <td>@teusoliveiraz</td>
-              <td>Oliveirazmatias</td>
+              <td id="uwu">Oliveirazmatias</td>
             </tr>
           </tbody>
         </Table>
+      </div>
       </div>
     </div>
   );

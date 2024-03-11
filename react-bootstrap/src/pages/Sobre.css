@@ -1,0 +1,10 @@
+#SobreContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#centralizar{
+    margin-top: 50%;
+}
