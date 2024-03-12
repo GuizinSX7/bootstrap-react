@@ -35,7 +35,7 @@ function Sobre() {
               <td>Mateus</td>
               <td>Silvério</td>
               <td>@teusoliveiraz</td>
-              <td id="uwu">Oliveirazmatias</td>
+              <td>Oliveirazmatias</td>
             </tr>
           </tbody>
         </Table>
